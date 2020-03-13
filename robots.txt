@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohhipeigha.gotravis.com/sitemap.xml
